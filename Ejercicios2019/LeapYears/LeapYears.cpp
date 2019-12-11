@@ -1,4 +1,4 @@
-//cantidad de anos viciestos de enero de un ano a enero del otro
+//cantidad de anos bisiestos de enero de un ano a enero del otro
 #include <iostream>
 using namespace std;
 int leap(int start, int fin){
